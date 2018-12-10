@@ -9,8 +9,11 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-String message = "Hello World!";
-System.out.println(message);
+String message = "Hello John, You are ";
+
+int age = 13;
+
+System.out.println(message + age + ".");
 
 //{ autofold
 }
